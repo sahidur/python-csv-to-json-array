@@ -1,0 +1,6 @@
+order_id,item_name,id,price,source_price,purchase_method,quantity,status,hold_reason,assigned_pickup_source,pickup_agent_id
+10378,Remax RM-201 Wired Earphone,22245,280,256,Cash,7,Stock Confirmed,,Unilever Bangladesh Limited,27
+10381,Real Fruit Power Apple Juice +1 FREE,22250,100,55,Cash,1,Stock Confirmed,,Unilever Bangladesh Limited,27
+10381,Assassin’s Creed Rouge(Remastered) ,22249,55,35,Cash,1,Out Of Stock,,Game Shop,27
+10382,Nioh,22251,100,73,Cash,1,Stock Confirmed,Stock Unavailable,Game Shop,27
+10385,TP-LINK TL-WR841N,22262,100,73,Cash,1,Stock Confirmed,,TP - Link Shop,27
